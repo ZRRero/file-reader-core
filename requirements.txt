@@ -1,0 +1,5 @@
+twine
+build
+setuptools
+pydantic_core
+awswrangler
